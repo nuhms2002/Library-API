@@ -1,0 +1,13 @@
+package com.example.Nuh_demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NuhDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NuhDemoApplication.class, args);
+	}
+
+}
